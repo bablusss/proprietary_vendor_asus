@@ -1303,6 +1303,7 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     QFingerprintService \
     TimeService \
+    Perfdump \
     WfdCommon \
     com.qti.snapdragon.sdk.display \
     qcrilhook \
